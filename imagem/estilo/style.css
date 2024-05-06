@@ -1,0 +1,13 @@
+@charset "UTF-8";
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    width: 100vw;
+    height: 100vw;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(50, 47, 218);
+    background-repeat: no-repeat;
+
+}
